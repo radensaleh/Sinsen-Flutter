@@ -1,0 +1,4 @@
+#Mon Nov 04 21:05:54 WIB 2019
+base.0=/home/rdsaleh/Documents/Dart/sinsen/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
